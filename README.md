@@ -1,0 +1,1 @@
+# encriptadordetexto-aluralatam-G6ONE
